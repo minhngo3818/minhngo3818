@@ -8,9 +8,9 @@ Linkedin
 </a>
 </p>
 
-<h2 style="color: #94e2d5">Technologies</h2>
+<h2><span  style="color: #94e2d5">[🥦] Technologies</span></h2>
 
-<h3 style="color: #cdd6f4">🍵 Most experienced 🍵</h3>
+<h3 style="color: #cdd6f4">🍵 Most experienced </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,ts,js,html,css)](https://skillicons.dev)
 
@@ -33,7 +33,7 @@ Linkedin
 <!-- END Most experience section-->
 
 <!-- At least once section-->
-<h3 style="color: #cdd6f4">🍸Used at least once 🍸</h3>
+<h3 style="color: #cdd6f4">🍸Used at least once</h3>
 
 <img alt="Kafka Badge" src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&color=%231e1e2e"/></a>
 <img alt="Spark Badge" src="https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&color=%231e1e2e"/></a>
@@ -49,13 +49,13 @@ Linkedin
 <!-- END At least once section-->
 
 <!-- Studying section-->
-<h3 style="color: #cdd6f4">🥛 Studying 🥛</h3>
+<h3 style="color: #cdd6f4">🥛 Studying</h3>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=cpp,c,cmake,bash" alt="My Skills">
 </a>
 <!-- END Studying section-->
 
-<h2 style="color: #94e2d5;">Stats</h2>
+<h2 style="color: #94e2d5;">[🌲] Stats</h2>
 <a style="margin-right: 20px" href="https://github.com/minhngo3818/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minhngo3818&theme=catppuccin_mocha" />
 </a>
