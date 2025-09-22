@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/9e7355ce-9299-400e-aaaa-d253c72155bd)
 
 
-<p align="center" style="color: #cdd6f4; font-size: 16px">I enjoy working with backend, full-stack, and low level system.<br />Crafting magic from computing is my motivation.</p>
+<p align="center" style="color: #cdd6f4; font-size: 16px">I enjoy working with backend, full-stack, data engi and 0.1/100 low-level system.<br />Crafting magic from computing is my motivation.</p>
 <p align="center" style="color: #cdd6f4;">Contact me @
 <a href="https://www.linkedin.com/in/minh-tuyen-ngo/">
 Linkedin
@@ -10,7 +10,7 @@ Linkedin
 
 <h2><span  style="color: #94e2d5">[🥦] Technologies</span></h2>
 
-<h3 style="color: #cdd6f4">🍵 Most experienced </h3>
+<h3 style="color: #cdd6f4">(🍵) Most experienced </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,ts,js,html,css)](https://skillicons.dev)
 
@@ -33,7 +33,7 @@ Linkedin
 <!-- END Most experience section-->
 
 <!-- At least once section-->
-<h3 style="color: #cdd6f4">🍸Used at least once</h3>
+<h3 style="color: #cdd6f4">(🍸)Used at least once</h3>
 
 <img alt="Kafka Badge" src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&color=%231e1e2e"/></a>
 <img alt="Spark Badge" src="https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&color=%231e1e2e"/></a>
@@ -49,7 +49,7 @@ Linkedin
 <!-- END At least once section-->
 
 <!-- Studying section-->
-<h3 style="color: #cdd6f4">🥛 Studying</h3>
+<h3 style="color: #cdd6f4">(🥛) Studying</h3>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=cpp,c,cmake,bash" alt="My Skills">
 </a>
